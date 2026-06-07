@@ -91,9 +91,3 @@ Model terbaik (berdasarkan R²) akan di-*tuning* dengan `RandomizedSearchCV`.
 
 ---
 
-## Deployment
-
-Aplikasi dapat di-deploy ke **Streamlit Community Cloud** via GitHub:
-1. Push semua file (termasuk `.pkl`) ke GitHub
-2. Buka [share.streamlit.io](https://share.streamlit.io)
-3. Connect repo dan set `app.py` sebagai entry point
