@@ -1,4 +1,4 @@
-# 🛒 Prediksi Penjualan Toko Ritel Rossman
+#Prediksi Penjualan Toko Ritel Rossman
 
 **Kelompok 1 — LM01**  
 Louis Huang | Gilbert Tjandra Adanarianto | Dava Rabbani Adrian Widyatmoko
