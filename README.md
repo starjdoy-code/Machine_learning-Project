@@ -66,7 +66,7 @@ File berikut akan otomatis dihasilkan:
 ### 4. Jalankan Aplikasi
 
 ```bash
-streamlit run app.py
+python -m streamlit run app.py
 ```
 
 ---
